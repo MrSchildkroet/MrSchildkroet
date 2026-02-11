@@ -30,6 +30,7 @@ A Minecraft Bedrock horror map, which is based on psychological horror, instead 
 A Minecraft Bedrock horror experience, inspired by the SCP lore, featuring custom entities, a scary atmosphere and scripted events.
 *You can find screenshots and the docs in my Repo: [COMING SOON]()
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrSchildkroet&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MrSchildkroet&theme=transparent&hide_border=false)<br/>
