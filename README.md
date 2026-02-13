@@ -20,6 +20,8 @@ A CLI tool that makes project creation in Notion easier.
 - generates Notion pages
 - commits standard GitHub files to the Repository via Git
 
+[View Repository ↗](https://github.com/MrSchildkroet/CLI-Notion-Tool)
+
 ### Backrooms: No Escape (Minecraft Bedrock horror map)
 
 A Minecraft Bedrock horror map, which is based on psychological horror, instead of cheap jumpscares.
