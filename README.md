@@ -19,7 +19,3 @@ Here you can find some of my projects. Feel free to check them out!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MrSchildkroet&show_icons=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSchildkroet&layout=compact&theme=dark)
