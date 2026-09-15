@@ -6,7 +6,7 @@ Here you can find some of my projects. Feel free to check them out!
 
 - **[Traffic-Monitor](https://github.com/MrSchildkroet/Traffic-Monitor)** — Windows Network-monitoring tool
 - **[AI-Workspace](https://github.com/MrSchildkroet/AI-Workspace)** — Local-first AI Workspace based on Ollama (Electron/NestJS/Next.js)
-- - **[Taskbar-Tasks](https://github.com/MrSchildkroet/Taskbar-Tasks)** — Task manager inside the Taskbar
+- **[Taskbar-Tasks](https://github.com/MrSchildkroet/Taskbar-Tasks)** — Task manager inside the Taskbar
 
 ## Tech Stack
 
